@@ -20,7 +20,7 @@ Atualmente, estou imersa no mundo do desenvolvimento, explorando diversas tecnol
 Aqui estão alguns dos projetos que estou desenvolvendo ou já concluí, que demonstram minhas habilidades e aprendizados:
 
 - **[meu-primeiro-projeto-back-end](https://github.com/AlineNRS/meu-primeiro-projeto-back-end)**: Um servidor back-end desenvolvido com Node.js, resultado do meu aprendizado no curso EuProgramo. Este projeto demonstra minha capacidade de criar APIs e lidar com lógica de servidor.
-- **[desafio-da-DIO](https://github.com/AlineNRS/desafio-da-DIO)**: Um guia detalhado sobre a criação de máquinas virtuais no Azure, parte de um desafio da DIO. Este projeto reflete meu interesse e conhecimento inicial em computação em nuvem.
+- **[trilha-net-fundamentos-desafio](https://github.com/AlineNRS/trilha-net-fundamentos-desafio)**: Desenvolvi este sistema de estacionamento em C#, aplicando os fundamentos da programação orientada a objetos aprendidos na trilha .NET da DIO — um projeto que une lógica, estrutura e propósito 💜.
 - **[desafio-do-laboratorio](https://github.com/AlineNRS/desafio-do-laboratorio)**: Resumo das lições aprendidas durante o desenvolvimento de laboratórios na DIO. Este e outros repositórios similares (`resumo-do-lab`, `lab-da-Dio`) mostram meu comprometimento com o aprendizado contínuo e a documentação de conhecimento.
 
 ## Meus Artigos na DIO
